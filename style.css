@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-size: 1.6rem;
+    font-family: Helvetica,Arial,sans-serif;
+}
+nav{
+    text-align: center;
+    font-style: bold;
+}
+h4,p{
+    margin: 20px;
+}
+.watch{
+    text-align: center;
+    color: green;
+}
+.btn.btn-primary{
+    text-align: center;
+    text-size-adjust: 50px;
+
+}
